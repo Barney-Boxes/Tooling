@@ -1,5 +1,7 @@
 # Setting Up GitHub
 
+<img src="./img/github-blue-img.png" alt="Atom" width="75"/> 
+
 Go to [GitHub](https://github.com/)
 Create Account
 - Pick out a name, try to make it something unique, somewhat proffessional, or at least not vulgar. 

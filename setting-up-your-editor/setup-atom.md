@@ -9,6 +9,8 @@
 
 ## Extend It
 ### Add GitHub for Atom
+<img src="./img/atom-img.svg" alt="Atom" width="75"/> + <img src="./img/github-blue-img.png" alt="Atom" width="75"/> 
+---
 Theres nothing to install, since it comes pre-packaged with Atom  
 1. Go to [GitHub](https://github.com/settings/tokens)
 1. On the Personal Access Tokens tab, Click *Generate new token*

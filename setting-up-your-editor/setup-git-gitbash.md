@@ -1,4 +1,6 @@
 # Setting Up Git
+<img src="./img/git-bash-img.png" alt="Atom" width="75"/>
+
 ## Install Git & GitBash
 1. Go to https://git-scm.com/
 1. Click *Download for OS*
