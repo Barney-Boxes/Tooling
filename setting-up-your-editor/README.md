@@ -16,7 +16,7 @@ If you want to learn how to setup VSCode checkout [this](./setup-vscode.md) mark
 ---
 
 ### Atom
-<img src="./img/atom-img.jpg" alt="Atom" width="75"/>
+<img src="./img/atom-img.png" alt="Atom" width="75"/>
 
 If you want to learn how to setup Atom checkout [this](./setup-atom.md) markdown doc
 
