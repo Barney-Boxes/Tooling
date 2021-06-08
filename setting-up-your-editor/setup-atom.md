@@ -1,4 +1,4 @@
-<img src="./img/atom-img.jpg" alt="Atom" width="150"/>
+<img src="./img/atom-img.svg" alt="Atom" width="150"/>
 
 # Setting Up Atom
 
