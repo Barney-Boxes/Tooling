@@ -28,7 +28,7 @@ If you want to use Sublime, then you're on your own, we don't have anyone who ha
 
 ---
 ### Notepad++
-<img src="./img/notepad-pp-img.jpg" alt="VSCode" width="100"/>
+<img src="./img/notepad-pp-img.png" alt="VSCode" width="100"/>
 
 If you want to keep things dead simple, Notepad++ is available almost anywhere and can make for a decent editor.  
 However it pales in comparison to the other 3 options.
